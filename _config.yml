@@ -20,18 +20,10 @@ description: A Jekyll theme for documentation
 ## NSS Changes to orginal
 # NOTE: Some original configuration has been commented below
 #       And the Kramdown section was modified
-aux_links:
-  "Nashville Software School":
-    - "https://nashvillesoftwareschool.com"
-aux_links_new_tab: true
 back_to_top: false
 footer_content: "<a href='https://nashvillesoftwareschool.com'>Nashville Software School</a>"
 gh_edit_link: false
-color_scheme: nss
-logo: "/assets/images/logo.png"
 url: "https://se.nashss.com"
-
-
 
 # baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 # url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -85,7 +77,7 @@ aux_links:
     - "//github.com/pmarsceill/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
-# aux_links_new_tab: false
+aux_links_new_tab: false
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
