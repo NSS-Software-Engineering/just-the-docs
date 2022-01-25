@@ -20,6 +20,9 @@ description: A Jekyll theme for documentation
 ## NSS Changes to orginal
 # NOTE: Some original configuration has been commented below
 #       And the Kramdown section was modified
+aux_links:
+  "Nashville Software School":
+    - "https://nashvillesoftwareschool.com"
 aux_links_new_tab: true
 back_to_top: false
 footer_content: "<a href='https://nashvillesoftwareschool.com'>Nashville Software School</a>"
