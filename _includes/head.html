@@ -37,7 +37,9 @@
 
   {% include head_custom.html %}
 
-      <script>
-        {{ site.to_s() }}
-      </script>
+  {{ site.to_s() }}
+
+  {{ site.inspect() }}
+
+  {{ site.keys() }}
 </head>
