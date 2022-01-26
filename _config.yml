@@ -24,6 +24,7 @@ back_to_top: false
 footer_content: "<a href='https://nashvillesoftwareschool.com'>Nashville Software School</a>"
 gh_edit_link: false
 url: "https://se.nashss.com"
+logo: "/assets/images/logo.png"
 
 # baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 # url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
